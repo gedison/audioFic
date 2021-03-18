@@ -9,9 +9,6 @@ import com.pastelpunk.audiofic.core.model.Chapter;
 import java.util.List;
 
 import javax.inject.Inject;
-import javax.sql.DataSource;
-
-import static junit.framework.Assert.assertTrue;
 
 public class ChapterRepositoryImpl implements ChapterRepository {
 
